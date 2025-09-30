@@ -1,0 +1,5 @@
+f = open("Chapter9/fileop.txt" , "w")
+# data = f.read()
+# print(data)
+f.write("Sonu is best coder")
+f.close()
